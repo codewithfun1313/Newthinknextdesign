@@ -5042,6 +5042,7 @@ button {
   }
   .footer-col p {
     max-width: 100%;
+    text-align: justify;
   }
   .footer-bottom {
     flex-direction: column;
