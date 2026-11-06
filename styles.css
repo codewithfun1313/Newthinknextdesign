@@ -14310,3 +14310,18 @@ body[data-scroll-locked="true"] .quick-contact,
     font-size: 13px !important;
   }
 }
+/* Mobile Drawer Nav Typography: 13px Arial font family */
+.drawer-nav,
+.drawer-nav a,
+.drawer-nav > a,
+.drawer-programs summary,
+.drawer-subnav a,
+.drawer-programs .drawer-subnav a {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 13px !important;
+}
+
+/* Hide Drawer Contact Box on Mobile View */
+.drawer-contact {
+  display: none !important;
+}
